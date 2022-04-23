@@ -1,0 +1,24 @@
+.App .Cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Table {
+    width: 100%;
+    max-width: 100%;
+}
+
+.Table th {
+    background-color: #283cae;
+    color: #fff;
+}
+
+.Table .Par {
+    background-color: #ddd;
+}
+
+.Table .Impar {
+    background-color: #ccc;
+}
+
